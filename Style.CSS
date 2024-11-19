@@ -1,0 +1,39 @@
+img {border-radius:75px;
+ 
+}
+
+}
+h2 {font-size:18px ;
+ 
+}
+body{ background-color:slateblue;
+text-align:center;
+font-family:"Trebuchet MS";
+color:white;
+}
+
+ 
+.youtube {
+ 
+
+ background-color:white ;
+font-size:20px ;
+border-radius:10px;
+padding:10px;
+display:block;
+text-align:center;
+margin:10px;
+color:red;
+}
+
+
+.instagram
+{background-color:white ;
+font-size:20px ;
+border-radius:10px;
+padding:10px;
+display:block;
+text-align:center;
+margin:10px;
+color:lightpink;
+}
